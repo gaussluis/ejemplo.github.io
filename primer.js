@@ -1,1 +1,1 @@
- document.write("Hola Mundo");
+ document.write("Hola Mundo! como esta escuela de código");
